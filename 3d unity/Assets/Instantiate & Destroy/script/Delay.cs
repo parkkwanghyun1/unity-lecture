@@ -23,6 +23,18 @@ public class Delay : MonoBehaviour
  
     void Update()
     {
- 
+       if(isDelay == false)
+        {
+            button.interactable = false; // 버튼 비활성화
+            currentTime -= Time.deltaTime; 
+            button.image.fillAmount = currentTime / fixedTime;
+
+            if(currentTime <= 0)
+            {
+                isDelay = true;
+                button.interactable = true;
+                button.image.fillAmount = currentTime = fixedTime;
+            }
+        }
     }
 }
