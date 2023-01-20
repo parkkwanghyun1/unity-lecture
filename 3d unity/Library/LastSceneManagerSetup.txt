@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Blend/Scene/AnimationBlend.unity
+- path: Assets/An Clip/Scene/AnClip.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
