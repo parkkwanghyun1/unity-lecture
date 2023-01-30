@@ -353,6 +353,8 @@
 "Assets/An Clip/Script/Popup.cs"
 "Assets/Animator/script/AnimationAction.cs"
 "Assets/Blend/Script/Motion.cs"
+"Assets/Collision/Scene/Script/Character_Control.cs"
+"Assets/Collision/Scene/Script/Sencor.cs"
 "Assets/first class/script/Test.cs"
 "Assets/Instantiate & Destroy/script/Create.cs"
 "Assets/Instantiate & Destroy/script/Delay.cs"
