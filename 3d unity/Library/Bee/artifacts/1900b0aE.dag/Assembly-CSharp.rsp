@@ -361,6 +361,8 @@
 "Assets/Instantiate & Destroy/script/Delay.cs"
 "Assets/Instantiate & Destroy/script/Delete.cs"
 "Assets/NavMesh Agent/Srcipt/Controller.cs"
+"Assets/Rotation/Script/Observe.cs"
+"Assets/Rotation/Script/Revolution.cs"
 "Assets/Sound/Script/Control.cs"
 "Assets/Sound/Script/SoundManager.cs"
 -langversion:9.0

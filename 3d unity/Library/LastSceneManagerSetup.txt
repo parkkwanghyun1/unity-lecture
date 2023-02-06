@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Animation Layer/Sence/Animation_Layer_Example.unity
+- path: Assets/Rotation/Sence/Rotation_Example.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
